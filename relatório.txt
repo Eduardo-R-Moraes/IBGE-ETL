@@ -1,0 +1,4 @@
+Municípios processados: 853 no resultado final, 853 extraídos da api e 1083 do sparql.
+Média populacional por município: 27807.24
+Critério de tranformação: pesquisei a quantidade de municípios presentes em MG e o da api estava correto,
+então considerei o dela. Peguei os nomes e o id da api e a quantidade de pessoas pelo sparql.
